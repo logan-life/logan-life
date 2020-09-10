@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning **Javascript, React, Node**
 
-- 👨‍💻 All of my projects are available at [loganayliffe.com](loganayliffe.com)
+- 🧠 I'm passionate about dedicating my time and energy to **improving the human condition.**  I'm especially interested in **driving technical solutions to our climate crisis** and **elevating human welfare through social justice.**
 
-- 🧠 I'm currently thinking about **bias in artificial intelligence systems, decreasing human work burdens, climate change, and more.**
-
-- 📫 How to reach me **ayliffe@hey.com**
+- 📫 You can reach me at **ayliffe@hey.com**
 
 - ⚡ Fun fact **🐉🐉 I love sci-fi / fantasy novels and games! 🐉🐉**
 
