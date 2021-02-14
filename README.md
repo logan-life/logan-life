@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [finishing my master's degree.](https://www.cis.upenn.edu/graduate/program-offerings/master-of-computer-and-information-technology/requirements/)
 
-- 🌱 I’m currently learning **Javascript, React, Node**
+- 🌱 I’m currently focusing on learning **Natural Language Processing, Databases, and Big Data** using tools like **Pandas, scikit-learn, and much more**
 
 - 🧠 I'm passionate about dedicating my time and energy to **improving the human condition.**  I'm especially interested in **driving technical solutions to our climate crisis** and **elevating human welfare through social justice.**
 
