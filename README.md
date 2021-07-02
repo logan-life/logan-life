@@ -3,13 +3,13 @@
 
 
 
-- 🔭 I’m currently working on [finishing my master's degree.](https://www.cis.upenn.edu/graduate/program-offerings/master-of-computer-and-information-technology/requirements/)
+- 🔭 I just graduated from University of Pennsylvania! I'm now a Master of Computer and Information Technology!!
 
 - 🌱 I’m currently focusing on learning **Natural Language Processing, Databases, and Big Data** using tools like **Pandas, scikit-learn, and much more**
 
 - 🧠 I'm passionate about dedicating my time and energy to **improving the human condition.**  I'm especially interested in **driving technical solutions to our climate crisis** and **elevating human welfare through social justice.**
 
-- 📫 You can reach me at **ayliffe@hey.com**
+- 📫 You can reach me at **lmayliffe@gmail.com**
 
 - ⚡ Fun fact **🐉🐉 I love sci-fi / fantasy books and games! 🐉🐉**
 
