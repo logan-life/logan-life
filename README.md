@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I just graduated from University of Pennsylvania! I'm now a Master of Computer and Information Technology!!
+- 🔭  I just graduated from University of Pennsylvania! I'm now a Master of Computer and Information Technology!!
 
 
 - 🧠 I'm passionate about dedicating my time and energy to **improving the human condition.**  I'm especially interested in **driving technical solutions to our climate crisis** and **elevating human welfare through social justice.**
