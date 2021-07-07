@@ -13,13 +13,3 @@
 
 - ⚡ Fun fact **🐉🐉 I love sci-fi / fantasy books and games! 🐉🐉**
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=logan-life" alt="logan-life" /> </p>
-
-
-<p align="center">
-<a href="https://twitter.com/logan_ayliffe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="logan_ayliffe" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/logan-ayliffe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="logan-ayliffe" height="30" width="30" /></a>
-<a href="https://www.leetcode.com/logan-life" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="logan-life" height="30" width="30" /></a>
-</p>
