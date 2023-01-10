@@ -12,3 +12,5 @@
 
 - ⚡ Fun fact **🐉🐉 I love sci-fi / fantasy books and games! 🐉🐉**
 
+You can also find me on <a rel="me" href="https://hachyderm.io/@logan">Mastodon</a>
+
